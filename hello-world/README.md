@@ -90,4 +90,4 @@ Hello from my own Apple Container image!
 
 ---
 
-次の教材：`git-ssh/`（予定） — コンテナ内から GitHub へ SSH で `git clone` する。
+次の教材：**[../git-ssh/](../git-ssh/)** — コンテナ内から GitHub へ SSH で `git clone` する。
