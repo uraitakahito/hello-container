@@ -22,6 +22,7 @@ Apple Container の導入手順は **[INSTALL.md](./INSTALL.md)** にまとめ�
 | --- | --- |
 | [hello-world/](./hello-world/) | インストール後の最初の一歩。既製イメージでコンテナを起動し、自作イメージをビルドして動かす |
 | [git-ssh/](./git-ssh/) | コンテナ内から GitHub へ SSH で `git clone` する（ホストの ssh-agent を `--ssh` で転送） |
+| [vnc/](./vnc/) | コンテナの中で GUI アプリを動かし、コンテナ固有の IP へ VNC / noVNC で直結して覗く |
 
 ## ライセンス
 
