@@ -87,3 +87,4 @@ Cloning into '<private-repo>'...
 ---
 
 前の教材：**[../hello-world/](../hello-world/)** — はじめてのコンテナ。
+次の教材：**[../vnc/](../vnc/)** — コンテナの中で GUI を動かして VNC で覗く。
